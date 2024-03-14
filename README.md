@@ -14,11 +14,14 @@
 - [JPEGDecoder.h](https://github.com/Bodmer/JPEGDecoder)
 - [WebSocketClient.h](https://github.com/brandenhall/Arduino-Websocket/tree/master)
 
+### ไดเรคตอรี
+
+
 ## สมาชิกกลุ่ม
-1. ธนากร สรอุบล
-2. ธาดา วิยาภรณ์
-3. ดนัยพัชร เพ็งกุล
-4. ธยศ ขันทะยศ
+1. ธนากร สรอุบล 66
+2. ธาดา วิยาภรณ์ 6610502081
+3. ดนัยพัชร เพ็งกุล 6610505381
+4. ธยศ ขันทะยศ 6610505420
 
 
 <h4 align="center">Introduction to Computer Hardware Development 01204114 <br> Faculty of engineering  Department of computer engineering Kasetsart University</h4>
